@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "f": "deMGoncalves/f"
+    "env": "deMGoncalves/env",
+    "firebase": "^8.2.9"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
