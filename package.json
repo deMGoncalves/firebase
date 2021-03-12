@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "env": "deMGoncalves/env",
+    "f": "deMGoncalves/f",
     "firebase": "^8.2.9"
   },
   "devDependencies": {
